@@ -18,7 +18,6 @@ Concepts Used
 - For Loop
 - "range()"
 - F-Strings
-
 How to Run
 Run the following command in the terminal:
 day1_task.py
